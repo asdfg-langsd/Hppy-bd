@@ -1,9 +1,18 @@
-body{
-  background-color: black;
-} 
-h1{
+
+h2{
   color: white;
-  font-family: "Lucida Console", "Courier New", monospace;
-  margin: auto;
+  
   text-align: center;
 } 
+/* CSS Centering Code with the h2 Selector "*" */ 
+
+/* Styling */
+
+body {
+  margin: auto;
+  width: 640px; 
+  padding: 50px;
+  font-family: 'Lexend Deca', sans-serif; 
+  color: #2E475D;
+  background-color: black; 
+}
